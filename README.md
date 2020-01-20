@@ -37,7 +37,7 @@ Finally, if you want to list all apps that you've registered with the App Center
 
 ### react-native-code-push plugin installation and setup
 
-Configure install and configure react-native-code-push on your android and ios folders by clicking below
+Configure install and configure react-native-code-push on your project based on your react-native version by clicking provided link below
 
 [react-native-code-push](https://github.com/microsoft/react-native-code-push)
 
