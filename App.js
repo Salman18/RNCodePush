@@ -44,7 +44,7 @@ class App extends React.Component {
           <Header />
           <View>
             <TouchableOpacity onPress={this.onButtonPress}>
-                <Text>Check for updates</Text>
+                <Text>Welcome to Udaans</Text>
             </TouchableOpacity>
         </View>
       </SafeAreaView>
