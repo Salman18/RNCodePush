@@ -29,7 +29,15 @@ With the original CodePush, apps automatically had two deployments (Staging and 
 
 After you create the deployments, you can access the deployment keys for both deployments using 
 
-```appcenter codepush deployment list --displayKeys -k```
+```appcenter codepush deployment list -a <ownerName>/<appName> --displayKeys -k```
+
+#### Android
+
+```appcenter codepush deployment list -a salman18/RNCodePush-Android --displayKeys -k```
+
+#### iOS
+
+```appcenter codepush deployment list -a salman18/RNCodePush-iOS --displayKeys -k```
 
 Finally, if you want to list all apps that you've registered with the App Center server, run the following command:
 
